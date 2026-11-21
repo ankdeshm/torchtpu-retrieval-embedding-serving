@@ -1,0 +1,3 @@
+{"category": "embedding", "model": "BAAI/bge-m3", "engine": "vllm-torchtpu-0.33.0", "chip": "v7x", "tp": 1, "status": "boot_failed", "boot_s": 46.2, "msg": "exited rc=1"}
+{"category": "reranker", "model": "BAAI/bge-reranker-v2-m3", "engine": "vllm-torchtpu-0.33.0", "chip": "v7x", "tp": 1, "status": "boot_failed", "boot_s": 34.2, "msg": "exited rc=1"}
+{"category": "embedding", "model": "Qwen/Qwen3-Embedding-8B", "engine": "vllm-torchtpu-0.33.0", "chip": "v7x", "tp": 2, "status": "boot_failed", "boot_s": 42.0, "msg": "exited rc=1"}
